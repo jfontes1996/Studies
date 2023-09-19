@@ -4,10 +4,10 @@ for (let i in notas) {
     console.log(i, notas[i])
 }
 const pessoa = {
-    nome: 'Eduarda',
-    sobrenome: 'Bezerra',
-    idade: 25,
-    peso: 59
+    nome: 'Pope',
+    sobrenome: 'Francis',
+    idade: 666,
+    peso: 66.6
 }
 
 for(let atributo in pessoa) {
